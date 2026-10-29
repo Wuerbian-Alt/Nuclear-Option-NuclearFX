@@ -4,7 +4,7 @@ Nuclear blast visual feedback for **Nuclear Option** — flash blindness, HUD bl
 
 > Unofficial mod. Not affiliated with the Nuclear Option developers.
 
-![preview](preview.gif)
+<img width="513" height="321" alt="preview" src="https://github.com/user-attachments/assets/4eab12f0-bb7d-4433-941b-8fad07c4b5df" />
 
 ---
 
