@@ -4,7 +4,7 @@ Nuclear blast visual feedback for **Nuclear Option** — flash blindness, HUD bl
 
 > Unofficial mod. Not affiliated with the Nuclear Option developers.
 
-![Nuclear FX Preview]([preview.gif](https://github.com/Wuerbian-Alt/Nuclear-Option-NuclearFX/blob/main/preview.gif?raw=true))
+![Nuclear FX Preview](preview.gif)
 
 ---
 
