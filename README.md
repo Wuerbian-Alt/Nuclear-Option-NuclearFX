@@ -109,10 +109,20 @@ A game restart is required after editing the file.
 
 | Key | Default | Description |
 |---|---|---|
-| `NoiseStrength` | 0.6 | Max noise opacity (0–1) |
+| `NoiseStrength` | 0.4 | Max noise opacity (0–1) |
+| `NoiseDensity` | 0.3 | Noise density (0–1): 1 = dense, 0.3 = sparse |
 | `NoiseDuration` | 1.6 | Noise fade-out duration |
 | `JitterStrength` | 22 | HUD shake amplitude (px) |
 | `JitterSeconds` | 1.4 | HUD shake duration |
+
+**[Effect] Electronic warfare**
+
+| Key | Default | Description |
+|---|---|---|
+| `UseVanillaJamming` | true | Trigger the game's own jammed state (HUD failure, map failure, jam audio) |
+| `JammingStrength` | 1.0 | Jamming intensity multiplier |
+| `JammingFalloff` | 1.0 | Jamming falloff exponent (1 = linear, >1 = weaker at range) |
+| `JammingVolume` | 1.0 | Jamming audio volume multiplier (0–1) |
 
 ### Presets
 
@@ -225,3 +235,5 @@ effect end
 ## License
 
 [MIT](LICENSE)
+
+
