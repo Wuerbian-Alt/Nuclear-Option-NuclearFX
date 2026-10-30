@@ -235,5 +235,3 @@ effect end
 ## License
 
 [MIT](LICENSE)
-
-
